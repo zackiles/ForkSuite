@@ -1,0 +1,20 @@
+{
+    "name": "DotNetPE",
+    "platform": "Desktop",
+    "os": "Windows",
+    "prong_key": "XOiS@B20Q",
+    "version": "1.0.0.0",
+    "tasks":
+        [
+            {
+                "name": "Ping",
+                "action": "ping",
+                "handler": "Ping.php"
+            },
+            {
+                "name": "Windows User Name",
+                "action": "setWindowsUser",
+                "handler": "username.php"
+            }
+        ]
+}

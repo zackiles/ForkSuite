@@ -1,0 +1,16 @@
+{
+    "name": "Debug Prong",
+    "platform": "Desktop",
+    "os": "Windows",
+    "prong_key": "debug",
+    "version": "1.0.0.0",
+    "tasks":
+        [
+            {
+                "name": "Ping",
+                "action": "ping",
+                "handler": "Ping.php"
+            }
+
+        ]
+}

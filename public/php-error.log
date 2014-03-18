@@ -1,0 +1,811 @@
+[08-Dec-2013 10:52:12 UTC] PHP Warning:  file_put_contents(/var/www/forksuite/public/client-mounts/test.txt): failed to open stream: Permission denied in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 338
+[08-Dec-2013 10:52:12 UTC] PHP Warning:  file_get_contents(/var/www/forksuite/public/client-mounts/test.txt): failed to open stream: No such file or directory in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 357
+[08-Dec-2013 10:53:12 UTC] PHP Warning:  mkdir(): Permission denied in /var/www/forksuite/src/Fork/Core/Facade/MountBase.php on line 69
+[08-Dec-2013 10:53:21 UTC] PHP Warning:  mkdir(): Permission denied in /var/www/forksuite/src/Fork/Core/Facade/MountBase.php on line 69
+[08-Dec-2013 10:53:22 UTC] PHP Warning:  mkdir(): Permission denied in /var/www/forksuite/src/Fork/Core/Facade/MountBase.php on line 69
+[08-Dec-2013 10:55:44 UTC] PHP Warning:  mkdir(): Permission denied in /var/www/forksuite/src/Fork/Core/Facade/MountBase.php on line 69
+[08-Dec-2013 10:55:45 UTC] PHP Warning:  mkdir(): Permission denied in /var/www/forksuite/src/Fork/Core/Facade/MountBase.php on line 69
+[08-Dec-2013 11:20:53 UTC] PHP Fatal error:  Call to a member function readFile() on a non-object in /var/www/forksuite/src/Fork/Api/MountApi.php on line 29
+[08-Dec-2013 12:04:12 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:37:00 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:38:33 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:38:33 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:38:34 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:38:34 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:38:34 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:39:12 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:39:13 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:39:13 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:39:13 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:39:13 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:39:14 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:39:17 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:39:18 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:39:18 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:39:39 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:40:44 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:41:19 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:41:20 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:41:20 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:41:20 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:41:59 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:42:00 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:42:00 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:42:00 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:42:01 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 12:42:01 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 13:03:12 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 13:03:13 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 13:04:02 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 13:04:03 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 13:04:03 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 13:05:51 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 13:05:51 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 13:05:51 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 13:05:52 UTC] PHP Fatal error:  Call to a member function mount() on a non-object in /var/www/forksuite/src/Fork/Fork.php on line 65
+[08-Dec-2013 22:53:49 UTC] PHP Fatal error:  Cannot instantiate abstract class Luracast\Restler\Format\MultiFormat in /var/www/forksuite/vendor/Luracast/Restler/Util.php on line 250
+[08-Dec-2013 22:54:57 UTC] PHP Notice:  Undefined offset: 0 in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 342
+[09-Dec-2013 00:06:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /var/www/forksuite/src/Fork/Api/MountApi.php on line 40
+[09-Dec-2013 00:19:54 UTC] PHP Notice:  Undefined index: mount in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[09-Dec-2013 00:36:37 UTC] PHP Warning:  file_get_contents(/var/www/forksuite/public/client-mounts/z1DAp/testtttt.txt): failed to open stream: No such file or directory in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 357
+[09-Dec-2013 00:36:37 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 00:37:12 UTC] PHP Fatal error:  Call to undefined method Fork\Core\Facade\FileMount::writeFile() in /var/www/forksuite/src/Fork/Api/MountApi.php on line 32
+[09-Dec-2013 00:37:52 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 00:41:22 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 00:41:27 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 00:43:03 UTC] PHP Warning:  strlen() expects parameter 1 to be string, array given in /var/www/forksuite/vendor/Luracast/Restler/Data/Validator.php on line 297
+[09-Dec-2013 00:43:03 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 879
+[09-Dec-2013 00:43:38 UTC] PHP Warning:  strlen() expects parameter 1 to be string, array given in /var/www/forksuite/vendor/Luracast/Restler/Data/Validator.php on line 297
+[09-Dec-2013 00:57:26 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/MountApi.php on line 30
+[09-Dec-2013 00:57:26 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, string given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 01:48:17 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/MountApi.php on line 30
+[09-Dec-2013 01:48:17 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, string given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 01:48:55 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/MountApi.php on line 30
+[09-Dec-2013 02:01:08 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /var/www/forksuite/src/Fork/Api/MountApi.php on line 42
+[09-Dec-2013 02:02:02 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 02:04:25 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 02:04:54 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 02:05:02 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 02:07:03 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 02:29:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/forksuite/src/Fork/Api/Api.php on line 15
+[09-Dec-2013 02:29:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/forksuite/src/Fork/Api/Api.php on line 16
+[09-Dec-2013 02:29:23 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 02:30:09 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 02:36:26 UTC] PHP Notice:  Undefined index: data in /var/www/forksuite/src/Fork/Api/MountApi.php on line 47
+[09-Dec-2013 02:39:44 UTC] PHP Notice:  Undefined index: data in /var/www/forksuite/src/Fork/Api/MountApi.php on line 49
+[09-Dec-2013 02:40:16 UTC] PHP Notice:  Undefined index: data in /var/www/forksuite/src/Fork/Api/MountApi.php on line 52
+[09-Dec-2013 02:40:17 UTC] PHP Notice:  Undefined index: data in /var/www/forksuite/src/Fork/Api/MountApi.php on line 52
+[09-Dec-2013 02:40:21 UTC] PHP Notice:  Undefined index: data in /var/www/forksuite/src/Fork/Api/MountApi.php on line 52
+[09-Dec-2013 02:40:50 UTC] PHP Notice:  Undefined index: data in /var/www/forksuite/src/Fork/Api/MountApi.php on line 52
+[09-Dec-2013 02:42:01 UTC] PHP Notice:  Undefined index: data in /var/www/forksuite/src/Fork/Api/MountApi.php on line 51
+[09-Dec-2013 04:22:22 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 04:23:12 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 04:24:17 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 04:25:45 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, boolean given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 05:02:01 UTC] PHP Catchable fatal error:  Argument 1 passed to Luracast\Restler\Format\UrlEncodedFormat::encoderTypeFix() must be of the type array, string given, called in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 23 and defined in /var/www/forksuite/vendor/Luracast/Restler/Format/UrlEncodedFormat.php on line 32
+[09-Dec-2013 05:03:19 UTC] PHP Parse error:  syntax error, unexpected '$mountInstance' (T_VARIABLE) in /var/www/forksuite/src/Fork/Api/MountApi.php on line 60
+[09-Dec-2013 05:06:38 UTC] PHP Warning:  file_get_contents(/var/www/forksuite/public/client-mounts/z1DAp/poop): failed to open stream: No such file or directory in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 357
+[09-Dec-2013 05:06:54 UTC] PHP Warning:  file_get_contents(/var/www/forksuite/public/client-mounts/z1DAp/poop): failed to open stream: No such file or directory in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 357
+[09-Dec-2013 05:07:19 UTC] PHP Warning:  file_get_contents(/var/www/forksuite/public/client-mounts/z1DAp/poop): failed to open stream: No such file or directory in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 357
+[09-Dec-2013 05:14:25 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/forksuite/src/Fork/Api/MountApi.php on line 58
+[09-Dec-2013 07:36:02 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /var/www/forksuite/src/Fork/Core/Facade/FileManager.php on line 39
+[09-Dec-2013 11:44:58 UTC] PHP Notice:  Undefined variable: type in /var/www/forksuite/vendor/DotsUnited/Cabinet/MimeType/Detector/FileinfoDetector.php on line 68
+[09-Dec-2013 11:58:50 UTC] PHP Parse error:  syntax error, unexpected '$mimetype' (T_VARIABLE) in /var/www/forksuite/vendor/DotsUnited/Cabinet/MimeType/Detector/FileinfoDetector.php on line 63
+[09-Dec-2013 12:17:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/forksuite/src/Fork/Core/Facade/FileManager.php on line 19
+[09-Dec-2013 15:51:48 UTC] PHP Fatal error:  Class 'Fork\Core\File\finfo' not found in /var/www/forksuite/src/Fork/Core/File/MimeDetect.php on line 24
+[09-Dec-2013 15:52:34 UTC] PHP Notice:  finfo::finfo(): Warning: offset `javascript.alert('hello');' invalid in /var/www/forksuite/src/Fork/Core/File/MimeDetect.php on line 24
+[09-Dec-2013 15:52:34 UTC] PHP Notice:  finfo::finfo(): Warning: type `javascript.alert('hello');' invalid in /var/www/forksuite/src/Fork/Core/File/MimeDetect.php on line 24
+[09-Dec-2013 15:52:34 UTC] PHP Warning:  finfo::finfo(): Failed to load magic database at '/var/www/forksuite/public/client-mounts/z1DAp/test.js'. in /var/www/forksuite/src/Fork/Core/File/MimeDetect.php on line 24
+[09-Dec-2013 17:50:22 UTC] PHP Warning:  filesize(): stat failed for /var/www/forksuite/public/client-mounts/z1DAp/test.exe in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 458
+[09-Dec-2013 17:50:22 UTC] PHP Warning:  file_get_contents(/var/www/forksuite/public/client-mounts/z1DAp/test.exe): failed to open stream: No such file or directory in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 357
+[09-Dec-2013 19:33:38 UTC] PHP Parse error:  syntax error, unexpected '*' in /var/www/forksuite/src/Fork/Core/File/FileManager.php on line 26
+[09-Dec-2013 20:34:37 UTC] PHP Notice:  ob_clean(): failed to delete buffer. No buffer to delete in /var/www/forksuite/src/Fork/Core/File/FileManager.php on line 17
+[10-Dec-2013 04:00:27 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'Class 'text/javascript' not found' in /var/www/forksuite/vendor/Luracast/Restler/Util.php:248
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(362): Luracast\Restler\Util::initialize('text/javascript')
+#1 /var/www/forksuite/src/Fork/Api/Api.php(37): Luracast\Restler\Restler->setOverridingFormats('text/javascript')
+#2 /var/www/forksuite/src/Fork/Api/Api.php(18): Fork\Api\Api::setRoutes(Object(Luracast\Restler\Restler))
+#3 /var/www/forksuite/public/index.php(4): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Util.php on line 248
+[10-Dec-2013 04:43:59 UTC] PHP Fatal error:  Class 'Fork\Fork' not found in /var/www/forksuite/src/Fork/Api/Api.php on line 26
+[10-Dec-2013 04:48:11 UTC] PHP Fatal error:  Class 'Fork\Fork' not found in /var/www/forksuite/src/Fork/Api/Api.php on line 26
+[10-Dec-2013 04:56:54 UTC] PHP Fatal error:  Class 'Fork\Fork' not found in /var/www/forksuite/src/Fork/Api/Api.php on line 26
+[10-Dec-2013 04:56:56 UTC] PHP Fatal error:  Class 'Fork\Fork' not found in /var/www/forksuite/src/Fork/Api/Api.php on line 26
+[10-Dec-2013 04:56:56 UTC] PHP Fatal error:  Class 'Fork\Fork' not found in /var/www/forksuite/src/Fork/Api/Api.php on line 26
+[10-Dec-2013 04:56:57 UTC] PHP Fatal error:  Class 'Fork\Fork' not found in /var/www/forksuite/src/Fork/Api/Api.php on line 26
+[10-Dec-2013 05:04:03 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'Class 'JsFormat, XmlFormat' not found' in /var/www/forksuite/vendor/Luracast/Restler/Util.php:248
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(362): Luracast\Restler\Util::initialize('JsFormat, XmlFo...')
+#1 /var/www/forksuite/src/Fork/Api/Api.php(27): Luracast\Restler\Restler->setOverridingFormats('JsFormat, XmlFo...')
+#2 /var/www/forksuite/public/index.php(7): Fork\Api\Api::start()
+#3 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Util.php on line 248
+[10-Dec-2013 05:36:48 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'Class 'JsFormat, XmlFormat' not found' in /var/www/forksuite/vendor/Luracast/Restler/Util.php:248
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(362): Luracast\Restler\Util::initialize('JsFormat, XmlFo...')
+#1 /var/www/forksuite/src/Fork/Api/Api.php(29): Luracast\Restler\Restler->setOverridingFormats('JsFormat, XmlFo...')
+#2 /var/www/forksuite/public/index.php(6): Fork\Api\Api::start()
+#3 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Util.php on line 248
+[10-Dec-2013 05:37:32 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'Class 'JsFormat, XmlFormat' not found' in /var/www/forksuite/vendor/Luracast/Restler/Util.php:248
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(362): Luracast\Restler\Util::initialize('JsFormat, XmlFo...')
+#1 /var/www/forksuite/src/Fork/Api/Api.php(29): Luracast\Restler\Restler->setOverridingFormats('JsFormat, XmlFo...')
+#2 /var/www/forksuite/public/index.php(6): Fork\Api\Api::start()
+#3 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Util.php on line 248
+[10-Dec-2013 05:38:17 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'Class 'JsFormat, XmlFormat' not found' in /var/www/forksuite/vendor/Luracast/Restler/Util.php:248
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(362): Luracast\Restler\Util::initialize('JsFormat, XmlFo...')
+#1 /var/www/forksuite/src/Fork/Api/Api.php(29): Luracast\Restler\Restler->setOverridingFormats('JsFormat, XmlFo...')
+#2 /var/www/forksuite/public/index.php(6): Fork\Api\Api::start()
+#3 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Util.php on line 248
+[10-Dec-2013 05:38:51 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'Class 'JsFormat, XmlFormat' not found' in /var/www/forksuite/vendor/Luracast/Restler/Util.php:248
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(362): Luracast\Restler\Util::initialize('JsFormat, XmlFo...')
+#1 /var/www/forksuite/src/Fork/Api/Api.php(29): Luracast\Restler\Restler->setOverridingFormats('JsFormat, XmlFo...')
+#2 /var/www/forksuite/public/index.php(6): Fork\Api\Api::start()
+#3 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Util.php on line 248
+[10-Dec-2013 06:09:16 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'Class 'JsFormat, XmlFormat' not found' in /var/www/forksuite/vendor/Luracast/Restler/Util.php:248
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(362): Luracast\Restler\Util::initialize('JsFormat, XmlFo...')
+#1 /var/www/forksuite/src/Fork/Api/Api.php(27): Luracast\Restler\Restler->setOverridingFormats('JsFormat, XmlFo...')
+#2 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#3 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Util.php on line 248
+[10-Dec-2013 06:38:00 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'Class 'JsFormat, XmlFormat' not found' in /var/www/forksuite/vendor/Luracast/Restler/Util.php:248
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(362): Luracast\Restler\Util::initialize('JsFormat, XmlFo...')
+#1 /var/www/forksuite/src/Fork/Api/Api.php(27): Luracast\Restler\Restler->setOverridingFormats('JsFormat, XmlFo...')
+#2 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#3 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Util.php on line 248
+[10-Dec-2013 17:42:01 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:42:53 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:42:54 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:42:54 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:42:54 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:42:55 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:42:55 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:42:55 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:42:55 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:42:56 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:42:56 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:43:28 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:43:28 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:43:29 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:43:29 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:43:29 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:43:29 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:43:29 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:43:30 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:43:46 UTC] PHP Catchable fatal error:  Argument 3 passed to Fork\Api\DraftApi::error() must be of the type array, integer given, called in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121 and defined in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 40
+[10-Dec-2013 17:44:23 UTC] PHP Fatal error:  Call to undefined method Fork\Api\DraftApi::status() in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 42
+[10-Dec-2013 17:45:28 UTC] 1
+[10-Dec-2013 17:45:29 UTC] 1
+[10-Dec-2013 17:45:29 UTC] 1
+[10-Dec-2013 17:45:29 UTC] 1
+[10-Dec-2013 17:45:29 UTC] 1
+[10-Dec-2013 17:45:30 UTC] 1
+[10-Dec-2013 17:45:42 UTC] 1
+[10-Dec-2013 17:45:43 UTC] 1
+[10-Dec-2013 17:45:43 UTC] 1
+[10-Dec-2013 17:45:43 UTC] 1
+[10-Dec-2013 17:46:25 UTC] 1
+[10-Dec-2013 17:46:25 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 68
+[10-Dec-2013 17:46:55 UTC] 1
+[10-Dec-2013 17:46:55 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 68
+[10-Dec-2013 17:46:56 UTC] 1
+[10-Dec-2013 17:46:56 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 68
+[10-Dec-2013 17:46:56 UTC] 1
+[10-Dec-2013 17:46:56 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 68
+[10-Dec-2013 17:47:06 UTC] 1
+[10-Dec-2013 17:47:44 UTC] 1
+[10-Dec-2013 17:47:44 UTC] 1
+[10-Dec-2013 17:50:09 UTC] PHP Fatal error:  Wrong parameters for ErrorException([string $exception [, long $code, [ long $severity, [ string $filename, [ long $lineno  [, Exception $previous = NULL]]]]]]) in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121
+[10-Dec-2013 17:50:36 UTC] PHP Fatal error:  Wrong parameters for ErrorException([string $exception [, long $code, [ long $severity, [ string $filename, [ long $lineno  [, Exception $previous = NULL]]]]]]) in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 121
+[13-Dec-2013 15:30:51 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/Api.php on line 102
+[13-Dec-2013 15:32:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /var/www/forksuite/src/Fork/Core/File/FileManager.php on line 221
+[13-Dec-2013 15:37:25 UTC] PHP Fatal error:  Undefined class constant 'prodgsdg' in /var/www/forksuite/src/Fork/Core/File/FileManager.php on line 21
+[13-Dec-2013 15:43:37 UTC] PHP Fatal error:  Call to undefined method Fork\Core\File\FileManager::sendFile() in /var/www/forksuite/src/Fork/Api/MountApi.php on line 63
+[13-Dec-2013 16:54:06 UTC] PHP Fatal error:  Call to private Fork\Stack::__construct() from context 'Fork\StaticFactory' in /var/www/forksuite/src/Fork/StaticFactory.php on line 18
+[13-Dec-2013 16:55:04 UTC] PHP Notice:  Undefined variable: stackCache in /var/www/forksuite/src/Fork/Stack.php on line 29
+[13-Dec-2013 16:55:04 UTC] PHP Fatal error:  Cannot access empty property in /var/www/forksuite/src/Fork/Stack.php on line 29
+[13-Dec-2013 16:55:59 UTC] PHP Notice:  Undefined variable: stackCache in /var/www/forksuite/src/Fork/Stack.php on line 29
+[13-Dec-2013 16:55:59 UTC] PHP Fatal error:  Cannot access empty property in /var/www/forksuite/src/Fork/Stack.php on line 29
+[13-Dec-2013 16:56:00 UTC] PHP Notice:  Undefined variable: stackCache in /var/www/forksuite/src/Fork/Stack.php on line 29
+[13-Dec-2013 16:56:00 UTC] PHP Fatal error:  Cannot access empty property in /var/www/forksuite/src/Fork/Stack.php on line 29
+[13-Dec-2013 17:08:57 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:08:57 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:09:22 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:10:10 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:10:45 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:14:37 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:15:49 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:16:03 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:16:22 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:24:32 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:28:26 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:30:42 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:30:43 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:31:30 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:32:53 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:32:53 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 17:32:57 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:32:57 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 17:33:24 UTC] PHP Notice:  Undefined index: file in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 199
+[13-Dec-2013 17:33:24 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 17:38:11 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 17:38:47 UTC] PHP Parse error:  syntax error, unexpected '/' in /var/www/forksuite/src/Fork/Api/MountApi.php on line 113
+[13-Dec-2013 20:00:21 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 20:03:53 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 20:03:57 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 20:08:03 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 20:08:16 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 20:09:02 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 20:09:37 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 20:10:20 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 20:10:25 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 20:10:55 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 20:10:57 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 20:11:07 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 20:11:34 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 20:12:37 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[13-Dec-2013 20:14:02 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 1013
+[14-Dec-2013 00:05:35 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 502
+[14-Dec-2013 17:10:37 UTC] PHP Notice:  Undefined index: fileName in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[14-Dec-2013 17:10:37 UTC] PHP Notice:  Undefined variable: fileName in /var/www/forksuite/src/Fork/Api/MountApi.php on line 129
+[14-Dec-2013 17:10:37 UTC] PHP Warning:  file_put_contents(/var/www/forksuite/public/client-mounts/z1DAp/): failed to open stream: Is a directory in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 338
+[14-Dec-2013 18:05:40 UTC] PHP Notice:  Undefined variable: fileName in /var/www/forksuite/src/Fork/Api/MountApi.php on line 109
+[14-Dec-2013 18:05:40 UTC] PHP Warning:  file_put_contents(/var/www/forksuite/public/client-mounts/z1DAp/): failed to open stream: Is a directory in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 338
+[14-Dec-2013 18:44:41 UTC] PHP Notice:  Undefined variable: mount in /var/www/forksuite/src/Fork/Api/MountApi.php on line 105
+[14-Dec-2013 18:44:41 UTC] PHP Notice:  Undefined variable: mount in /var/www/forksuite/src/Fork/Api/MountApi.php on line 111
+[14-Dec-2013 18:44:53 UTC] PHP Notice:  Undefined variable: mount in /var/www/forksuite/src/Fork/Api/MountApi.php on line 111
+[14-Dec-2013 18:44:57 UTC] PHP Notice:  Undefined variable: mount in /var/www/forksuite/src/Fork/Api/MountApi.php on line 111
+[14-Dec-2013 18:45:08 UTC] PHP Warning:  strstr(): Empty delimiter in /var/www/forksuite/src/Fork/Api/MountApi.php on line 111
+[14-Dec-2013 22:48:30 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[14-Dec-2013 22:49:10 UTC] PHP Notice:  Undefined variable: mount in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 104
+[14-Dec-2013 23:02:44 UTC] PHP Warning:  file_put_contents(/var/www/forksuite/public/client-mounts/z1DApB/sgg): failed to open stream: No such file or directory in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 338
+[14-Dec-2013 23:05:35 UTC] PHP Warning:  file_put_contents(/var/www/forksuite/public/client-mounts/z1DApB/sgg): failed to open stream: No such file or directory in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 338
+[14-Dec-2013 23:10:57 UTC] PHP Warning:  file_put_contents(/var/www/forksuite/public/client-mounts/z1DApB/sgg): failed to open stream: No such file or directory in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 338
+[14-Dec-2013 23:30:11 UTC] PHP Warning:  substr() expects parameter 2 to be long, string given in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 105
+[14-Dec-2013 23:45:03 UTC] PHP Warning:  implode(): Invalid arguments passed in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 103
+[14-Dec-2013 23:48:03 UTC] PHP Warning:  implode(): Invalid arguments passed in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 103
+[14-Dec-2013 23:48:52 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 103
+[14-Dec-2013 23:48:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 103
+[14-Dec-2013 23:51:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 103
+[14-Dec-2013 23:59:18 UTC] PHP Notice:  Undefined variable: fileName in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 108
+[15-Dec-2013 00:25:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 110
+[15-Dec-2013 00:36:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 112
+[15-Dec-2013 00:57:33 UTC] PHP Parse error:  syntax error, unexpected '$t' (T_VARIABLE) in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 114
+[15-Dec-2013 02:27:08 UTC] PHP Warning:  file_put_contents(/var/www/forksuite/public/client-mounts/z1DApB/afas.txt): failed to open stream: No such file or directory in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 338
+[15-Dec-2013 02:27:51 UTC] PHP Warning:  file_put_contents(/var/www/forksuite/public/client-mounts/1DApB/afas.txt): failed to open stream: No such file or directory in /var/www/forksuite/vendor/DotsUnited/Cabinet/Adapter/StreamAdapter.php on line 338
+[15-Dec-2013 02:37:40 UTC] PHP Warning:  implode(): Invalid arguments passed in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 124
+[15-Dec-2013 02:38:25 UTC] PHP Warning:  implode(): Invalid arguments passed in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 124
+[15-Dec-2013 02:38:29 UTC] PHP Warning:  implode(): Invalid arguments passed in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 124
+[15-Dec-2013 03:18:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 101
+[15-Dec-2013 04:27:25 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 04:27:25 UTC] PHP Warning:  Illegal string offset 'name' in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:27:42 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 04:27:42 UTC] PHP Warning:  Illegal string offset 'name' in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:27:59 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 04:28:48 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 04:29:23 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '&' or variable (T_VARIABLE) in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 81
+[15-Dec-2013 04:29:29 UTC] PHP Notice:  Undefined variable: file in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:30:05 UTC] PHP Warning:  Illegal string offset 'name' in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:30:05 UTC] PHP Warning:  Illegal string offset 'name' in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:30:05 UTC] PHP Warning:  Illegal string offset 'name' in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:34:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:34:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:34:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:34:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:34:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:35:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:35:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:35:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:35:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:35:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:36:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:36:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:36:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:36:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:36:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:37:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:37:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:37:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:37:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:37:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 85
+[15-Dec-2013 04:44:30 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 04:44:30 UTC] PHP Notice:  Undefined index: name in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 84
+[15-Dec-2013 04:44:45 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 04:44:45 UTC] PHP Warning:  Illegal string offset 'name' in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 84
+[15-Dec-2013 04:45:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 84
+[15-Dec-2013 04:45:34 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 04:47:08 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 04:48:18 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 04:48:18 UTC] PHP Warning:  Illegal string offset 'name' in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 88
+[15-Dec-2013 04:48:45 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 04:48:45 UTC] PHP Warning:  Illegal string offset 'name' in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 84
+[15-Dec-2013 04:53:30 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 04:53:30 UTC] PHP Notice:  Undefined index: name in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 88
+[15-Dec-2013 04:53:54 UTC] PHP Notice:  Undefined variable: file in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 91
+[15-Dec-2013 04:54:25 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 04:55:18 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 04:55:18 UTC] PHP Warning:  Illegal string offset 'name' in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 88
+[15-Dec-2013 04:55:30 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 04:55:30 UTC] PHP Warning:  Illegal string offset 'name' in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 84
+[15-Dec-2013 04:59:51 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 06:01:41 UTC] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 3072 bytes) in /var/www/forksuite/vendor/Luracast/Restler/iFilter.php on line 27
+[15-Dec-2013 06:01:48 UTC] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 3072 bytes) in /var/www/forksuite/vendor/Luracast/Restler/iFilter.php on line 27
+[15-Dec-2013 06:01:54 UTC] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 3072 bytes) in /var/www/forksuite/vendor/Luracast/Restler/iFilter.php on line 27
+[15-Dec-2013 06:02:17 UTC] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 3072 bytes) in /var/www/forksuite/vendor/Luracast/Restler/iFilter.php on line 27
+[15-Dec-2013 06:02:18 UTC] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 3072 bytes) in /var/www/forksuite/vendor/Luracast/Restler/iFilter.php on line 27
+[15-Dec-2013 06:02:19 UTC] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 3072 bytes) in /var/www/forksuite/vendor/Luracast/Restler/iFilter.php on line 27
+[15-Dec-2013 06:02:39 UTC] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 3072 bytes) in /var/www/forksuite/vendor/Luracast/Restler/iFilter.php on line 27
+[15-Dec-2013 06:02:39 UTC] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 3072 bytes) in /var/www/forksuite/vendor/Luracast/Restler/iFilter.php on line 27
+[15-Dec-2013 06:02:39 UTC] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 3072 bytes) in /var/www/forksuite/vendor/Luracast/Restler/iFilter.php on line 27
+[15-Dec-2013 06:02:40 UTC] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 3072 bytes) in /var/www/forksuite/vendor/Luracast/Restler/iFilter.php on line 27
+[15-Dec-2013 06:04:42 UTC] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 3072 bytes) in /var/www/forksuite/vendor/Luracast/Restler/iFilter.php on line 27
+[15-Dec-2013 14:42:44 UTC] PHP Warning:  file_get_contents(/tmp/phpc4K3KM): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 89
+[15-Dec-2013 14:42:44 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[15-Dec-2013 18:22:36 UTC] PHP Warning:  file_get_contents(/tmp/phpGX27QV): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 89
+[15-Dec-2013 18:22:36 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[15-Dec-2013 18:31:51 UTC] PHP Warning:  file_get_contents(/tmp/phpVxjpEJ): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 89
+[15-Dec-2013 18:31:51 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[15-Dec-2013 18:34:21 UTC] PHP Warning:  file_get_contents(/tmp/phpLAujFF): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 89
+[15-Dec-2013 18:34:21 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[15-Dec-2013 18:35:09 UTC] PHP Warning:  file_get_contents(/tmp/phpQpvh3D): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 89
+[15-Dec-2013 18:35:09 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[15-Dec-2013 18:39:20 UTC] PHP Warning:  file_get_contents(/tmp/phpDPLhJF): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 89
+[15-Dec-2013 18:39:20 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[15-Dec-2013 18:40:01 UTC] PHP Warning:  file_get_contents(/tmp/phpBmpaqF): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 89
+[15-Dec-2013 18:40:01 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[15-Dec-2013 18:40:16 UTC] PHP Warning:  file_get_contents(/tmp/phpPBmvPo): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 89
+[15-Dec-2013 18:40:16 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[15-Dec-2013 18:40:52 UTC] PHP Notice:  Undefined index: type in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 411
+[15-Dec-2013 18:43:36 UTC] PHP Warning:  file_get_contents(/tmp/phplyQb6S): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 89
+[15-Dec-2013 18:43:36 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[15-Dec-2013 18:44:02 UTC] PHP Warning:  file_get_contents(/tmp/phpmpK1T5): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 89
+[15-Dec-2013 18:44:02 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[15-Dec-2013 18:44:03 UTC] PHP Warning:  file_get_contents(/tmp/phpRSryN9): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 89
+[15-Dec-2013 18:44:03 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[15-Dec-2013 18:44:18 UTC] PHP Warning:  file_get_contents(/tmp/phpz9KoqQ): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 89
+[15-Dec-2013 18:44:18 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[15-Dec-2013 19:04:22 UTC] PHP Warning:  func_get_arg():  Argument 0 not passed to function in /var/www/forksuite/src/Fork/Api/MountApi2.php on line 107
+[15-Dec-2013 19:05:28 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[15-Dec-2013 19:05:30 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[15-Dec-2013 19:05:56 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[15-Dec-2013 19:05:57 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[15-Dec-2013 19:05:57 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:37:33 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:38:30 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:38:30 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:38:31 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:38:31 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:38:36 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:38:36 UTC] PHP Notice:  Undefined offset: 0 in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 356
+[16-Dec-2013 04:38:42 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:39:11 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:39:12 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:40:17 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:40:18 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:40:18 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:40:33 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:40:34 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:40:34 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:40:34 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:40:34 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:41:16 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:47:10 UTC] PHP Notice:  Undefined index: route in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 04:50:52 UTC] PHP Notice:  Undefined index: * in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[16-Dec-2013 05:03:18 UTC] PHP Notice:  Undefined index: product_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[17-Dec-2013 04:18:38 UTC] PHP Warning:  func_get_arg():  Argument 0 not passed to function in /var/www/forksuite/src/Fork/Api/MountApi.php on line 67
+[17-Dec-2013 04:50:43 UTC] PHP Warning:  func_get_arg():  Argument 0 not passed to function in /var/www/forksuite/src/Fork/Api/MountApi.php on line 67
+[18-Dec-2013 08:57:33 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Service/FileMountProvider.php on line 32
+[18-Dec-2013 09:14:52 UTC] PHP Fatal error:  Class 'Sail\UserAgent' not found in /var/www/forksuite/src/Fork/Core/Client/Client.php on line 49
+[18-Dec-2013 09:18:30 UTC] PHP Fatal error:  Interface 'Sail\Useragent\UserAgentInterface' not found in /var/www/forksuite/vendor/Sail/Useragent.php on line 27
+[18-Dec-2013 09:20:33 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[18-Dec-2013 09:21:33 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[18-Dec-2013 09:21:47 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[18-Dec-2013 09:21:57 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[18-Dec-2013 09:22:03 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(28): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[18-Dec-2013 09:24:18 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'UploadFormat is read only' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php:90
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(1077): Luracast\Restler\Format\UploadFormat->encode(Array, true)
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(272): Luracast\Restler\Restler->message(Object(Luracast\Restler\RestException))
+#2 /var/www/forksuite/src/Fork/Api/Api.php(27): Luracast\Restler\Restler->handle()
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 90
+[18-Dec-2013 09:25:43 UTC] PHP Notice:  Undefined variable: _SESSION in /var/www/forksuite/src/Fork/Core/Client/Client.php on line 120
+[18-Dec-2013 09:26:40 UTC] PHP Notice:  Undefined variable: _SESSION in /var/www/forksuite/src/Fork/Core/Client/Client.php on line 120
+[19-Dec-2013 08:14:01 UTC] PHP Fatal error:  Class 'Fork\Api\Object' not found in /var/www/forksuite/src/Fork/Api/TestApi.php on line 24
+[19-Dec-2013 09:48:52 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 25
+[19-Dec-2013 09:49:23 UTC] PHP Notice:  Undefined variable: decoded in /var/www/forksuite/src/Fork/Api/TestApi.php on line 27
+[19-Dec-2013 09:54:00 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 25
+[20-Dec-2013 07:02:23 UTC] PHP Warning:  func_get_arg():  Argument 0 not passed to function in /var/www/forksuite/src/Fork/Api/MountApi.php on line 68
+[19-Dec-2013 08:14:36 UTC] PHP Parse error:  syntax error, unexpected 'dfsfsf' (T_STRING), expecting ',' or ';' in /var/www/forksuite/src/Fork/Api/TestApi.php on line 35
+[19-Dec-2013 08:32:56 UTC] PHP Fatal error:  Call to undefined function Fork\Api\getPath() in /var/www/forksuite/src/Fork/Api/TestApi.php on line 38
+[19-Dec-2013 08:41:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/forksuite/src/Fork/Api/TestApi.php on line 32
+[19-Dec-2013 08:42:02 UTC] PHP Fatal error:  Class 'Fork\Api\DirectoryIterator' not found in /var/www/forksuite/src/Fork/Api/TestApi.php on line 32
+[19-Dec-2013 08:55:49 UTC] PHP Warning:  file_get_contents(/var/www/forksuite/src/Fork/Prongs/DotNetPE/prong.json): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/TestApi.php on line 54
+[19-Dec-2013 08:55:50 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 56
+[19-Dec-2013 09:00:25 UTC] PHP Notice:  Undefined property: stdClass::$handler in /var/www/forksuite/src/Fork/Api/TestApi.php on line 57
+[20-Dec-2013 02:55:18 UTC] PHP Fatal error:  Call to a member function attach() on a non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 49
+[20-Dec-2013 02:55:39 UTC] PHP Warning:  SplObjectStorage::attach() expects parameter 1 to be object, string given in /var/www/forksuite/src/Fork/Api/TestApi.php on line 50
+[18-Dec-2013 08:12:44 UTC] PHP Fatal error:  Call to a member function attach() on a non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 32
+[18-Dec-2013 08:15:35 UTC] PHP Fatal error:  Call to a member function attach() on a non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 34
+[18-Dec-2013 08:15:36 UTC] PHP Fatal error:  Call to a member function attach() on a non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 34
+[19-Dec-2013 08:51:57 UTC] PHP Warning:  func_get_arg():  Argument 0 not passed to function in /var/www/forksuite/src/Fork/Api/MountApi.php on line 67
+[19-Dec-2013 14:47:49 UTC] PHP Notice:  Only variable references should be returned by reference in /var/www/forksuite/src/Fork/Fork.php on line 75
+[19-Dec-2013 14:47:49 UTC] PHP Notice:  Only variable references should be returned by reference in /var/www/forksuite/src/Fork/Fork.php on line 75
+[19-Dec-2013 14:47:49 UTC] PHP Notice:  Only variable references should be returned by reference in /var/www/forksuite/src/Fork/Fork.php on line 95
+[19-Dec-2013 14:47:49 UTC] PHP Notice:  Only variable references should be returned by reference in /var/www/forksuite/src/Fork/Fork.php on line 95
+[19-Dec-2013 14:47:49 UTC] PHP Notice:  Only variable references should be returned by reference in /var/www/forksuite/src/Fork/Fork.php on line 75
+[19-Dec-2013 14:47:49 UTC] PHP Notice:  Only variable references should be returned by reference in /var/www/forksuite/src/Fork/Fork.php on line 75
+[19-Dec-2013 14:47:49 UTC] PHP Notice:  Only variable references should be returned by reference in /var/www/forksuite/src/Fork/Fork.php on line 75
+[19-Dec-2013 14:47:49 UTC] PHP Notice:  Only variable references should be returned by reference in /var/www/forksuite/src/Fork/Fork.php on line 75
+[19-Dec-2013 15:52:01 UTC] PHP Catchable fatal error:  Argument 1 passed to Fork\Fork::Auth() must be an instance of Fork\Core\Client\Role, integer given, called in /var/www/forksuite/src/Fork/Api/TaskApi.php on line 30 and defined in /var/www/forksuite/src/Fork/Fork.php on line 50
+[19-Dec-2013 15:58:36 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 55
+[19-Dec-2013 15:58:36 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 56
+[19-Dec-2013 15:58:36 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 15:58:36 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 15:59:11 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 55
+[19-Dec-2013 15:59:11 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 56
+[19-Dec-2013 15:59:11 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 15:59:11 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 15:59:12 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 55
+[19-Dec-2013 15:59:12 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 56
+[19-Dec-2013 15:59:12 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 15:59:12 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 15:59:33 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 55
+[19-Dec-2013 15:59:33 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 56
+[19-Dec-2013 15:59:33 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 15:59:33 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 15:59:33 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 55
+[19-Dec-2013 15:59:33 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 56
+[19-Dec-2013 15:59:33 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 15:59:33 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 16:00:42 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 55
+[19-Dec-2013 16:00:42 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 56
+[19-Dec-2013 16:00:42 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 16:00:42 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 16:00:42 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[19-Dec-2013 16:00:42 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:00:42 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:00:42 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:00:42 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[19-Dec-2013 16:00:42 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:00:42 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:00:42 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:00:42 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 20
+[19-Dec-2013 16:09:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 55
+[19-Dec-2013 16:09:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 56
+[19-Dec-2013 16:09:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 16:09:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 16:09:06 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 55
+[19-Dec-2013 16:09:06 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 56
+[19-Dec-2013 16:09:06 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 16:09:06 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 16:09:06 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 55
+[19-Dec-2013 16:09:06 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 56
+[19-Dec-2013 16:09:06 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 16:09:06 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 16:12:38 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 56
+[19-Dec-2013 16:12:38 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 16:12:38 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 16:12:38 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 59
+[19-Dec-2013 16:12:40 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 56
+[19-Dec-2013 16:12:40 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 16:12:40 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 16:12:40 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 59
+[19-Dec-2013 16:12:40 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 56
+[19-Dec-2013 16:12:40 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 16:12:40 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 16:12:40 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 59
+[19-Dec-2013 16:12:56 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 16:12:56 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 16:12:56 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 59
+[19-Dec-2013 16:12:56 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 60
+[19-Dec-2013 16:12:57 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 16:12:57 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 16:12:57 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 59
+[19-Dec-2013 16:12:57 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 60
+[19-Dec-2013 16:12:58 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[19-Dec-2013 16:12:58 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[19-Dec-2013 16:12:58 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 59
+[19-Dec-2013 16:12:58 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 60
+[19-Dec-2013 16:13:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /var/www/forksuite/src/Fork/Fork.php on line 66
+[19-Dec-2013 16:14:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /var/www/forksuite/src/Fork/Fork.php on line 66
+[19-Dec-2013 16:16:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /var/www/forksuite/src/Fork/Fork.php on line 66
+[19-Dec-2013 16:18:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /var/www/forksuite/src/Fork/Fork.php on line 66
+[19-Dec-2013 16:18:45 UTC] PHP Notice:  Only variable references should be returned by reference in /var/www/forksuite/src/Fork/StaticFactory.php on line 26
+[19-Dec-2013 16:18:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /var/www/forksuite/src/Fork/Fork.php on line 66
+[19-Dec-2013 16:33:04 UTC] PHP Notice:  Only variable references should be returned by reference in /var/www/forksuite/src/Fork/StaticFactory.php on line 26
+[19-Dec-2013 16:33:04 UTC] PHP Notice:  Only variable references should be returned by reference in /var/www/forksuite/src/Fork/StaticFactory.php on line 26
+[19-Dec-2013 16:33:04 UTC] PHP Notice:  Only variable references should be returned by reference in /var/www/forksuite/src/Fork/StaticFactory.php on line 26
+[19-Dec-2013 16:33:04 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[19-Dec-2013 16:33:04 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:33:04 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:33:04 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:33:04 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[19-Dec-2013 16:33:04 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:33:04 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:33:04 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:33:04 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 20
+[19-Dec-2013 16:35:32 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[19-Dec-2013 16:35:32 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:35:32 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:35:32 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:35:32 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 20
+[19-Dec-2013 16:35:32 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[19-Dec-2013 16:35:32 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:35:32 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:35:32 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:35:32 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 20
+[19-Dec-2013 16:35:33 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[19-Dec-2013 16:35:33 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:35:33 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:35:33 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:35:33 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 20
+[19-Dec-2013 16:35:56 UTC] PHP Catchable fatal error:  Object of class Fork\Core\Model\ProngEntity could not be converted to string in /var/www/forksuite/src/Fork/Core/Prong/Prong.php on line 69
+[19-Dec-2013 16:38:30 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[19-Dec-2013 16:38:30 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:38:30 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:38:30 UTC] PHP Warning:  PDO::quote() expects parameter 1 to be string, array given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 496
+[19-Dec-2013 16:38:30 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 20
+[19-Dec-2013 16:39:54 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Core/Prong/Prong.php on line 42
+[19-Dec-2013 16:39:54 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[19-Dec-2013 16:39:54 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Core/Prong/Prong.php on line 43
+[19-Dec-2013 16:39:54 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Core/Prong/Prong.php on line 44
+[19-Dec-2013 16:39:54 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 20
+[19-Dec-2013 16:40:58 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[19-Dec-2013 16:40:58 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 20
+[19-Dec-2013 16:41:49 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Core/Prong/Prong.php on line 42
+[19-Dec-2013 16:41:49 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[19-Dec-2013 16:41:49 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Core/Prong/Prong.php on line 43
+[19-Dec-2013 16:41:49 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Core/Prong/Prong.php on line 44
+[19-Dec-2013 16:41:49 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 20
+[19-Dec-2013 21:58:52 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[19-Dec-2013 22:02:45 UTC] PHP Notice:  Undefined index: HTTP_USER-AGENT in /var/www/forksuite/src/Fork/Core/Prong/Prong.php on line 34
+[19-Dec-2013 22:02:45 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[19-Dec-2013 22:02:45 UTC] PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/forksuite/src/Fork/Core/Prong/Prong.php on line 46
+[19-Dec-2013 22:02:45 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 20
+[19-Dec-2013 22:02:56 UTC] PHP Warning:  current() expects parameter 1 to be array, string given in /var/www/forksuite/src/Fork/Core/Prong/Prong.php on line 46
+[19-Dec-2013 22:02:56 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 20
+[19-Dec-2013 22:03:17 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 20
+[19-Dec-2013 22:05:28 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[19-Dec-2013 22:05:28 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 20
+[19-Dec-2013 22:08:09 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 20
+[19-Dec-2013 22:30:48 UTC] PHP Fatal error:  Call to a member function getDispatchPayload() on a non-object in /var/www/forksuite/src/Fork/Core/Service/TaskProvider.php on line 21
+[19-Dec-2013 23:22:04 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /var/www/forksuite/src/Fork/Core/System/Logging.php on line 36
+[19-Dec-2013 23:30:28 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Core/Task/Task.php on line 183
+[19-Dec-2013 23:31:32 UTC] PHP Catchable fatal error:  Object of class Fork\Core\Model\ProngEntity could not be converted to string in /var/www/forksuite/src/Fork/Core/Task/Task.php on line 183
+[20-Dec-2013 01:47:52 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 56
+[20-Dec-2013 01:47:52 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 57
+[20-Dec-2013 01:47:52 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 58
+[20-Dec-2013 01:47:52 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 59
+[20-Dec-2013 02:13:30 UTC] PHP Warning:  func_get_arg():  Argument 0 not passed to function in /var/www/forksuite/src/Fork/Api/MountApi.php on line 65
+[20-Dec-2013 04:05:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /var/www/forksuite/src/Fork/Api/TaskApi.php on line 61
+[20-Dec-2013 04:05:23 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 442
+[20-Dec-2013 04:36:53 UTC] PHP Notice:  Undefined property: PDOStatement::$dispatched in /var/www/forksuite/src/Fork/Api/TestApi.php on line 35
+[20-Dec-2013 04:37:58 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 35
+[20-Dec-2013 04:38:25 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 35
+[20-Dec-2013 04:43:13 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/forksuite/src/Fork/Api/TestApi.php on line 34
+[20-Dec-2013 05:32:49 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 34
+[20-Dec-2013 05:32:49 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 35
+[20-Dec-2013 05:32:49 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 40
+[20-Dec-2013 05:33:10 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 34
+[20-Dec-2013 05:33:10 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 35
+[20-Dec-2013 05:33:10 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 40
+[20-Dec-2013 05:45:16 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 34
+[20-Dec-2013 05:45:16 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 35
+[20-Dec-2013 05:45:16 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 40
+[20-Dec-2013 05:45:55 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 34
+[20-Dec-2013 05:45:55 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 35
+[20-Dec-2013 05:45:55 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 40
+[20-Dec-2013 05:45:56 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 34
+[20-Dec-2013 05:45:56 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 35
+[20-Dec-2013 05:45:56 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/TestApi.php on line 40
+[17-Dec-2013 22:59:06 UTC] PHP Notice:  Undefined offset: 1 in /var/www/forksuite/vendor/Sail/Parser/Simple/Browser.php on line 39
+[18-Dec-2013 01:31:23 UTC] PHP Fatal error:  Class 'Fork\Core\Facade\SessionManager' not found in /var/www/forksuite/src/Fork/Core/Client/Client.php on line 114
+[18-Dec-2013 08:10:44 UTC] PHP Fatal error:  Class 'Fork\Api\Fork' not found in /var/www/forksuite/src/Fork/Api/Tasks.php on line 36
+[18-Dec-2013 09:56:36 UTC] PHP Notice:  Use of undefined constant mull - assumed 'mull' in /var/www/forksuite/src/Fork/Api/Tasks.php on line 42
+[18-Dec-2013 10:01:46 UTC] PHP Fatal error:  Class 'Fork\Api\PDO' not found in /var/www/forksuite/src/Fork/Api/Tasks.php on line 70
+[18-Dec-2013 10:02:01 UTC] PHP Fatal error:  Cannot use [] for reading in /var/www/forksuite/src/Fork/Api/Tasks.php on line 70
+[18-Dec-2013 10:02:07 UTC] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Extraneous additional parameters in /var/www/forksuite/src/Fork/Api/Tasks.php on line 70
+[18-Dec-2013 10:03:14 UTC] PHP Fatal error:  Class 'Fork\Api\PDO' not found in /var/www/forksuite/src/Fork/Api/Tasks.php on line 70
+[18-Dec-2013 11:21:55 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/Tasks.php on line 31
+[18-Dec-2013 21:55:28 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 144
+[18-Dec-2013 21:55:28 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 145
+[18-Dec-2013 21:56:56 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 144
+[18-Dec-2013 21:56:56 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 145
+[18-Dec-2013 21:56:56 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 144
+[18-Dec-2013 21:56:56 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 145
+[18-Dec-2013 21:56:57 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 144
+[18-Dec-2013 21:56:57 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 145
+[18-Dec-2013 21:56:57 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 144
+[18-Dec-2013 21:56:57 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 145
+[18-Dec-2013 21:56:57 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 144
+[18-Dec-2013 21:56:57 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 145
+[18-Dec-2013 21:56:58 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 144
+[18-Dec-2013 21:56:58 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 145
+[18-Dec-2013 21:57:31 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 144
+[18-Dec-2013 21:57:31 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 145
+[18-Dec-2013 22:00:10 UTC] PHP Catchable fatal error:  Argument 2 passed to Fork\Core\Prong\Prong::openForClient() must be an instance of Fork\Core\Prong\ProngModule, boolean given, called in /var/www/forksuite/src/Fork/Core/Service/ProngProvider.php on line 56 and defined in /var/www/forksuite/src/Fork/Core/Prong/Prong.php on line 87
+[18-Dec-2013 22:08:24 UTC] PHP Fatal error:  Call to a member function getKey() on a non-object in /var/www/forksuite/src/Fork/Api/Tasks.php on line 44
+[18-Dec-2013 22:27:57 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 142
+[18-Dec-2013 23:01:14 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /var/www/forksuite/src/Fork/Core/Prong/ProngCache.php on line 161
+[19-Dec-2013 22:54:38 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /var/www/forksuite/src/Fork/Api/Tasks.php on line 63
+[19-Dec-2013 22:55:20 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/Tasks.php on line 63
+[19-Dec-2013 22:55:20 UTC] PHP Notice:  Undefined variable: Array in /var/www/forksuite/src/Fork/Api/Tasks.php on line 63
+[19-Dec-2013 23:02:03 UTC] PHP Notice:  Undefined variable: clientProngIds in /var/www/forksuite/src/Fork/Api/Tasks.php on line 65
+[19-Dec-2013 23:33:05 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/Tasks.php on line 65
+[19-Dec-2013 23:33:33 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/Tasks.php on line 65
+[20-Dec-2013 01:34:23 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/Tasks.php on line 63
+[20-Dec-2013 01:34:23 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/Tasks.php on line 64
+[20-Dec-2013 01:34:23 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/Tasks.php on line 64
+[20-Dec-2013 01:35:17 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/src/Fork/Api/Tasks.php on line 62
+[20-Dec-2013 01:35:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/forksuite/src/Fork/Api/Tasks.php on line 62
+[20-Dec-2013 01:35:52 UTC] PHP Fatal error:  Cannot use [] for reading in /var/www/forksuite/src/Fork/Api/Tasks.php on line 62
+[17-Dec-2013 07:41:49 UTC] PHP Fatal error:  Cannot use [] for reading in /var/www/forksuite/src/Fork/Api/Tasks.php on line 107
+[17-Dec-2013 08:18:43 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, boolean given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 442
+[17-Dec-2013 08:31:51 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/Tasks.php on line 111
+[17-Dec-2013 08:31:51 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /var/www/forksuite/src/Fork/Api/Tasks.php on line 111
+[17-Dec-2013 08:32:11 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /var/www/forksuite/src/Fork/Api/Tasks.php on line 111
+[17-Dec-2013 09:08:31 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 442
+[17-Dec-2013 09:13:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /var/www/forksuite/src/Fork/Api/Tasks.php on line 93
+[17-Dec-2013 09:13:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /var/www/forksuite/src/Fork/Api/Tasks.php on line 93
+[17-Dec-2013 09:14:32 UTC] PHP Notice:  Undefined variable: dispatcheds in /var/www/forksuite/src/Fork/Api/Tasks.php on line 92
+[17-Dec-2013 09:54:51 UTC] PHP Fatal error:  Cannot use [] for reading in /var/www/forksuite/src/Fork/Api/Tasks.php on line 123
+[17-Dec-2013 10:53:28 UTC] PHP Notice:  Undefined variable: n in /var/www/forksuite/src/Fork/Api/Tasks.php on line 123
+[17-Dec-2013 10:53:28 UTC] PHP Notice:  Undefined variable: n in /var/www/forksuite/src/Fork/Api/Tasks.php on line 123
+[17-Dec-2013 10:53:28 UTC] PHP Notice:  Undefined variable: n in /var/www/forksuite/src/Fork/Api/Tasks.php on line 123
+[17-Dec-2013 10:53:28 UTC] PHP Notice:  Undefined variable: n in /var/www/forksuite/src/Fork/Api/Tasks.php on line 123
+[18-Dec-2013 03:22:12 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/Tasks.php on line 104
+[18-Dec-2013 03:22:30 UTC] PHP Notice:  Trying to get property of non-object in /var/www/forksuite/src/Fork/Api/Tasks.php on line 104
+[18-Dec-2013 07:21:03 UTC] PHP Fatal error:  Call to a member function getRoleId() on a non-object in /var/www/forksuite/src/Fork/Api/Tasks.php on line 41
+[18-Dec-2013 07:31:42 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/Tasks.php on line 51
+[18-Dec-2013 07:31:42 UTC] PHP Notice:  Array to string conversion in /var/www/forksuite/src/Fork/Api/Tasks.php on line 51
+[18-Dec-2013 07:52:45 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /var/www/forksuite/src/Fork/Core/Data/EntityMapper.php on line 442
+[12-Dec-2013 14:36:49 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:36:49 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:37:32 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:37:32 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:38:48 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:38:48 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:38:56 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:38:56 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:39:19 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:39:19 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:39:21 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:39:21 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:39:23 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:39:23 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:39:52 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:39:52 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:40:30 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:40:30 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202
+[12-Dec-2013 14:41:42 UTC] PHP Notice:  Undefined index: prong_id in /var/www/forksuite/vendor/Luracast/Restler/Routes.php on line 202

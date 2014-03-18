@@ -1,0 +1,94 @@
+[08-Dec-2013 23:09:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /var/www/forksuite/src/Fork/Api/Api.php on line 32
+[08-Dec-2013 23:10:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /var/www/forksuite/src/Fork/Api/Api.php on line 32
+[08-Dec-2013 23:10:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /var/www/forksuite/src/Fork/Api/Api.php on line 32
+[10-Dec-2013 04:40:07 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 04:40:07 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:09:29 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:09:29 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:10:16 UTC] PHP Fatal error:  Class 'Fork\Configuration' not found in /var/www/forksuite/src/Fork/Api/Api.php on line 18
+[10-Dec-2013 05:11:02 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:11:02 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:11:56 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:11:56 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:14:44 UTC] PHP Warning:  require_once(../../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:14:44 UTC] PHP Fatal error:  require_once(): Failed opening required '../../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:14:45 UTC] PHP Warning:  require_once(../../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:14:45 UTC] PHP Fatal error:  require_once(): Failed opening required '../../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:04 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:04 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:05 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:05 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:05 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:05 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:05 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:05 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:05 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:05 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:08 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:08 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:08 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:08 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:08 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:15:08 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[10-Dec-2013 05:16:48 UTC] PHP Fatal error:  Class 'Fork\Api\Configuration' not found in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:20:42 UTC] PHP Fatal error:  Class 'Fork\Api\Configuration' not found in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:20:45 UTC] PHP Fatal error:  Class 'Fork\Api\Configuration' not found in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:20:56 UTC] PHP Fatal error:  Class 'Fork\Api\Configuration' not found in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:26:51 UTC] PHP Warning:  require_once(./Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:26:51 UTC] PHP Fatal error:  require_once(): Failed opening required './Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:27:01 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:27:01 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:27:02 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:27:02 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:27:21 UTC] PHP Warning:  require_once(../../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:27:21 UTC] PHP Fatal error:  require_once(): Failed opening required '../../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:27:22 UTC] PHP Warning:  require_once(../../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:27:22 UTC] PHP Fatal error:  require_once(): Failed opening required '../../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:33:02 UTC] PHP Warning:  require_once(../../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 05:33:02 UTC] PHP Fatal error:  require_once(): Failed opening required '../../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 5
+[10-Dec-2013 17:05:05 UTC] PHP Fatal error:  Call to private Fork\Api\DraftApi::__construct() from context 'Luracast\Restler\Util' in /var/www/forksuite/vendor/Luracast/Restler/Util.php on line 250
+[10-Dec-2013 17:05:05 UTC] PHP Fatal error:  Call to private Fork\Api\DraftApi::__construct() from context 'Luracast\Restler\Util' in /var/www/forksuite/vendor/Luracast/Restler/Util.php on line 250
+[10-Dec-2013 17:05:52 UTC] PHP Notice:  Undefined variable: fw in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 51
+[10-Dec-2013 17:05:52 UTC] PHP Notice:  Undefined variable: fw in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 56
+[10-Dec-2013 17:17:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 141
+[10-Dec-2013 17:18:21 UTC] PHP Fatal error:  Class 'Fork\Api\Base' not found in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 141
+[10-Dec-2013 17:18:50 UTC] PHP Fatal error:  Class 'Fork\Api\Base' not found in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 141
+[10-Dec-2013 17:18:51 UTC] PHP Fatal error:  Class 'Fork\Api\Base' not found in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 141
+[10-Dec-2013 17:30:59 UTC] PHP Notice:  Undefined variable: fw in /var/www/forksuite/src/Fork/Api/DraftApi.php on line 98
+[10-Dec-2013 17:34:06 UTC] PHP Fatal error:  Call to private Fork\Api\DraftApi::__construct() from context 'Luracast\Restler\Util' in /var/www/forksuite/vendor/Luracast/Restler/Util.php on line 250
+[10-Dec-2013 17:38:50 UTC] PHP Fatal error:  Call to private Fork\Api\DraftApi::__construct() from context 'Luracast\Restler\Util' in /var/www/forksuite/vendor/Luracast/Restler/Util.php on line 250
+[13-Dec-2013 16:44:59 UTC] PHP Fatal error:  Access to undeclared static property: Fork\Fork::$Stack in /var/www/forksuite/src/Fork/Api/Api.php on line 70
+[13-Dec-2013 16:58:38 UTC] PHP Warning:  require_once(../Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[13-Dec-2013 16:58:38 UTC] PHP Fatal error:  require_once(): Failed opening required '../Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[13-Dec-2013 17:53:37 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /var/www/forksuite/vendor/Luracast/Restler/Restler.php on line 495
+[14-Dec-2013 22:20:46 UTC] PHP Warning:  require_once(../../src/Fork/Bootstrap.php): failed to open stream: No such file or directory in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[14-Dec-2013 22:20:46 UTC] PHP Fatal error:  require_once(): Failed opening required '../../src/Fork/Bootstrap.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/forksuite/src/Fork/Api/Api.php on line 4
+[15-Dec-2013 03:31:00 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'The views directory `/var/www/forksuite/views` should exist with read permission.' in /var/www/forksuite/vendor/Luracast/Restler/Format/HtmlFormat.php:52
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Util.php(250): Luracast\Restler\Format\HtmlFormat->__construct()
+#1 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(373): Luracast\Restler\Util::initialize('HtmlFormat')
+#2 /var/www/forksuite/src/Fork/Api/Api.php(39): Luracast\Restler\Restler->setOverridingFormats('HtmlFormat')
+#3 /var/www/forksuite/src/Fork/Api/Api.php(21): Fork\Api\Api::setContentFormats(Object(Luracast\Restler\Restler))
+#4 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#5 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Format/HtmlFormat.php on line 52
+[15-Dec-2013 04:17:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 123
+[15-Dec-2013 04:46:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 96
+[15-Dec-2013 05:06:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /var/www/forksuite/vendor/Luracast/Restler/Format/UploadFormat.php on line 97
+[15-Dec-2013 05:42:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /var/www/forksuite/src/Fork/Configuration.php on line 58
+[15-Dec-2013 05:42:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /var/www/forksuite/src/Fork/Configuration.php on line 58
+[18-Dec-2013 08:40:30 UTC] PHP Fatal error:  Interface 'Sail\Useragent\UserAgentInterface' not found in /var/www/forksuite/vendor/Sail/Useragent.php on line 27
+[19-Dec-2013 16:30:52 UTC] PHP Fatal error:  Cannot use Fork\Core\Prong\ProngCache as ProngCache because the name is already in use in /var/www/forksuite/src/Fork/Fork.php on line 19
+[19-Dec-2013 16:32:38 UTC] PHP Fatal error:  Cannot use Fork\Core\Prong\ProngCache as ProngCache because the name is already in use in /var/www/forksuite/src/Fork/Fork.php on line 19
+[19-Dec-2013 16:32:39 UTC] PHP Fatal error:  Cannot use Fork\Core\Prong\ProngCache as ProngCache because the name is already in use in /var/www/forksuite/src/Fork/Fork.php on line 19
+[19-Dec-2013 16:32:40 UTC] PHP Fatal error:  Cannot use Fork\Core\Prong\ProngCache as ProngCache because the name is already in use in /var/www/forksuite/src/Fork/Fork.php on line 19
+[19-Dec-2013 16:32:40 UTC] PHP Fatal error:  Cannot use Fork\Core\Prong\ProngCache as ProngCache because the name is already in use in /var/www/forksuite/src/Fork/Fork.php on line 19
+[19-Dec-2013 16:32:40 UTC] PHP Fatal error:  Cannot use Fork\Core\Prong\ProngCache as ProngCache because the name is already in use in /var/www/forksuite/src/Fork/Fork.php on line 19
+[18-Dec-2013 10:06:20 UTC] PHP Fatal error:  Uncaught exception 'Luracast\Restler\RestException' with message 'Class 'TextFormat, JsonFormat' not found' in /var/www/forksuite/vendor/Luracast/Restler/Util.php:248
+Stack trace:
+#0 /var/www/forksuite/vendor/Luracast/Restler/Restler.php(330): Luracast\Restler\Util::initialize('TextFormat, Jso...')
+#1 /var/www/forksuite/src/Fork/Api/Api.php(54): Luracast\Restler\Restler->setSupportedFormats('TextFormat, Jso...')
+#2 /var/www/forksuite/src/Fork/Api/Api.php(30): Fork\Api\Api::setContentFormats(Object(Luracast\Restler\Restler))
+#3 /var/www/forksuite/public/index.php(5): Fork\Api\Api::start()
+#4 {main}
+  thrown in /var/www/forksuite/vendor/Luracast/Restler/Util.php on line 248

@@ -1,0 +1,64 @@
+#################################################################################
+#
+# 	A simple list of mimetype / extensions that Forksuite uses before
+#       consulting other functions like finfo, libmagic. This acts as a filter
+#       to force content-type headers for sending files with certain extensions.
+#       This is helpful as the other internal system functions mostly rely on
+#       byte-matching which is wildy innacurate for a lot of text based files.
+#       Forksuite commonly uses text based payloads, and as such requires more
+#       reliability in the content-type.
+#
+#       Class can also be used to set specific handlers for payloads with custom
+#       extensions. For example your file.myext can be handled by text/html for
+#       browser payloads etc.
+#
+#	Don't mess around here too much.
+#
+#################################################################################
+
+application/atom+xml				atom
+application/atomcat+xml				atomcat
+application/atomserv+xml			atomsrv
+application/bbolin				lin
+application/java-archive			jar
+application/java-serialized-object		ser
+application/java-vm				class
+application/javascript				js
+application/json				json
+application/msword				doc dot
+application/octet-stream			bin
+application/pdf					pdf
+application/rar					rar
+application/rdf+xml				rdf
+application/rtf					rtf
+application/xhtml+xml				xhtml xht
+application/xml					xml xsl xsd
+application/zip					zip
+application/vnd.android.package-archive		apk
+application/vnd.mozilla.xul+xml			xul
+application/vnd.tcpdump.pcap			cap pcap
+application/x-gtar-compressed			tgz taz
+application/x-httpd-php			        phtml pht php
+application/x-httpd-php-source			phps
+application/x-httpd-php3			php3
+application/x-httpd-php3-preprocessed		php3p
+application/x-httpd-php4			php4
+application/x-httpd-php5			php5
+application/x-iphone				iii
+application/x-msdos-program			com exe bat dll
+application/x-msi				msi
+application/x-ns-proxy-autoconfig		pac dat
+application/x-rdp				rdp
+application/x-rss+xml				rss
+application/x-ruby				rb
+application/x-sh				sh
+aplication/x-silverlight			scr
+application/x-sql				sql
+application/x-tar				tar
+application/x-x509-ca-cert			crt
+application/x-xcf				xcf
+application/x-xpinstall				xpi
+image/x-xpixmap					xpm
+text/html					html htm shtml
+text/plain					asc txt text pot brf srt
+text/x-java					java
